@@ -6,8 +6,8 @@
         "description" : "Esta receita do Arroz de Pato tem a sua origem no seminário mais antigo de Portugal: o seminário de Braga. A receita tradicional costumava fazer-se com pato selvagem. É um prato muito saboroso e muito típico da gastronomia portuguesa.",
         "image" : "https://www.pingodoce.pt/wp-content/uploads/2016/12/arroz-de-pato-516x310.jpg",
         "type" : "1",
-        "dose_price" : "2,00",
-        "classification" : "4,0",
+        "dose_price" : "2.00",
+        "classification" : "4.0",
         "size" : "4"
     },
     {
@@ -16,8 +16,8 @@
         "description" : "O bacalhau com natas é uma receita clássica da culinária portuguesa e é uma das mais adoradas formas de servir bacalhau. Cremoso e saboroso, é uma receita obrigatória para o seu repertório!",
         "image" : "https://www.vortexmag.net/wp-content/uploads/2020/10/0003DC9DA4C999-e1604050972958.jpg",
         "type" : "1",
-        "dose_price" : "1,50",
-        "classification" : "4,5",
+        "dose_price" : "1.50",
+        "classification" : "4.5",
         "size" : "4"
     },
     {
@@ -26,8 +26,8 @@
         "description" : "Ideal para um almoço de fim-de-semana em família, o cozido de grão é uma refeição reconfortante e nutritiva, e cheia de sabores tipicamente portugueses.",
         "image" : "https://www.pingodoce.pt/wp-content/uploads/2020/01/cozido-grao.jpg",
         "type" : "1",
-        "dose_price" : "3,00",
-        "classification" : "3,5",
+        "dose_price" : "3.00",
+        "classification" : "3.5",
         "size" : "6"
     }
 ], "users" : [
