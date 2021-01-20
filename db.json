@@ -1,0 +1,19 @@
+{
+"dishes" : [
+    {
+    "id": "1",
+    "name" : "arroz de pato",
+    "description" : "Esta receita do Arroz de Pato tem a sua origem no seminário mais antigo de Portugal: o seminário de Braga. A receita tradicional costumava fazer-se com pato selvagem. É um prato muito saboroso e muito típico da gastronomia portuguesa.",
+    "image" : "https://www.pingodoce.pt/wp-content/uploads/2016/12/arroz-de-pato-516x310.jpg",
+    "type" : "1"
+    }
+], "users" : [
+    {
+    "id" : "1",
+    "email" : "joao123@gmail.com",
+    "name" : "João",
+    "phone" : "923759371",
+    "password" : "Joao1234"
+    } 
+]
+}
